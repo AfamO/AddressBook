@@ -6,6 +6,7 @@ This is mearnt to be a prototype/basic phonebook app using java.
 Techologies/Tools: Java2SE, Java Web/JSP/Servelets
 App Server: Tomcat 6.0
 Database Server: mysql/phpmyadmin
+IDE: NetBeans 7.3.1
 
 Features:
 As a result of time factor-I mean I have lots of engagement in the office where I NEEED to justify my pay, I did not have time to put alot of features here. As of the moment a user can do the following:
@@ -18,6 +19,7 @@ Things that where not done:
 (1)I couldn't complete display of the user's registered phonebooks and their details
 (2)Delete and Search where not implemented-these are part of AddressBook App
 (3)Multiple phone numbers and email addresses were not also accounted for.
+(4) Total/Integral client and server-side and input  validation and even some NullPointerException Checks
 NB: There was no time for the above since I had to work for my current employer and we did not have light(moreover I was not around too) during this last weekend.
 
 Note:

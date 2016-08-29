@@ -27,4 +27,5 @@ Note:
 (2) The app is also supposed to have a Listener class, robust loggings, trigger/store procedure,
 (3)In real life it should and can also use hibernate framework, spring MVC, etc. for robustness,scalabiltiy, etc.
 (4) The app connection pool could also be optimized for production purposes.
-(5)etc.
+(5)Test Driven Developmemt: unitt/Junit,Integration/System test, static code analysis,load and stress test,code coverage tests,etc.
+(6)etc.
